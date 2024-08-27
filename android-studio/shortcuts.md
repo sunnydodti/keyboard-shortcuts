@@ -25,3 +25,7 @@
 - Move line/s down - `Ctrl + Alt + downArrow`
 
 - Select Next Occurence - `ALt + J`
+- Extract Method - `Ctrl + ALt + M`
+
+- Show Suggestions - `Ctrl + Space`
+- Show Actions `Alt + Enter`
