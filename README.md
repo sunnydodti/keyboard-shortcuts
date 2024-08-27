@@ -6,5 +6,6 @@
 - [Visual Studio](visual-studio/shortcuts.md)
 
 ## Browser 
+- [Chrome](browsers/chrome/shortcuts.md)
 
 ## OS
