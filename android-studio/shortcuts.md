@@ -28,4 +28,4 @@
 - Extract Method - `Ctrl + ALt + M`
 
 - Show Suggestions - `Ctrl + Space`
-- Show Actions `Alt + Enter`
+- Show Actions - `Alt + Enter`
