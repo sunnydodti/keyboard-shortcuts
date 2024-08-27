@@ -33,4 +33,7 @@
   - remove all additional Cursors - `Esc`
 
 - Switch between open files - `Ctrl + Tab` (hold `Ctrl` and keep pressing `Tab` to select next file)
+
 - Go to line - `Ctrl + G` (please don't scroll to line 2318)
+- Move line up `Alt + upArrow`
+- Move line down `Alt + downArrow`
